@@ -29,7 +29,9 @@
    严格按照企业级标准进行代码重构。将接口路由 (`routers/`)、核心业务逻辑 (`services/`) 与数据模型 (`models/`) 完全解耦，告别“一坨代码写到底”的玩具项目。
 
 ## 🎬 演示效果 (Demo)
-*(请将你在 Swagger 测试 `POST /api/chat/` 接口时，终端打印出 AI 疯狂调用工具的“绿色日志”截图粘贴在这里，极其装X)*
+<img width="1562" height="1010" alt="image" src="https://github.com/user-attachments/assets/001202b3-2881-43ad-ac89-849dce53a838" />
+<img width="1567" height="817" alt="image" src="https://github.com/user-attachments/assets/20bd79bc-4c80-4499-a00b-f8d2740f5d3a" />
+
 
 ## 🚀 快速启动指南
 
